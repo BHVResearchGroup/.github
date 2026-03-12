@@ -26,7 +26,7 @@ Exploring the challenges of **immersive technologies** for creative and meaningf
 
 For more information about our research activities, projects, and collaborations, please visit:
 
-🌐 (https://bhv.iti.gr/)[https://bhv.iti.gr/]
+🌐 [https://bhv.iti.gr/](https://bhv.iti.gr/)
 
 ---
 
