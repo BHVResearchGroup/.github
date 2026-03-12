@@ -2,7 +2,7 @@
 
 Welcome to the **official GitHub organization of the BHV Research Group**.
 
-The BHV Research Group conducts interdisciplinary research at the intersection of **neuroscience, digital health, and immersive technologies**. Our mission is to develop innovative technologies that improve human wellbeing and quality of life.
+The BHV Research Group creates solutions for advanced human–machine interaction, covering a wide spectrum of technologies, from brain–computer interfaces and digital health to virtual and augmented reality.
 
 ---
 
